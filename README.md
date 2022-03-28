@@ -1,2 +1,2 @@
 # alistamento
-projeto para treinar java
+Projeto para  praticar java
